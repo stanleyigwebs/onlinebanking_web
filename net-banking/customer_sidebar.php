@@ -57,7 +57,6 @@ include "connect.php";
 </head>
 
 <body>
-<script src="//code.tidio.co/yltibvefj0gub18elzrybpspieij7v18.js" async></script>
  <nav  style="background: linear-gradient(87deg, #213292b2 0, #0e0133b0 100%);"class="sidenav navbar navbar-vertical  fixed-left  navbar-expand-xs navbar-dark" id="sidenav-main">
   
   <div class="scrollbar-inner">
